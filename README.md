@@ -11,6 +11,12 @@
 
 - Create database for mysql
 
+- Run composer install command
+
+```bash
+  composer install
+```
+
 - Run Artisan comman for seeding data
 
 ```bash
